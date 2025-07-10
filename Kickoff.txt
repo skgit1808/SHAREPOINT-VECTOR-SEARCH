@@ -1,0 +1,3 @@
+Kickoff Meeting Notes - AI RAG Project
+Date: 2024-06-10
+Discussed: vector DB options, data sources, next steps.
